@@ -5,8 +5,6 @@ description: This resource gives information on conversational and conventional 
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/d9af12ff631e7b4461b974d339c0f709_handout13.pdf
 file_size: 81107
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

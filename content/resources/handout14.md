@@ -5,8 +5,6 @@ description: This resource gives information on presupposition, permissibility, 
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/4910721d96f9259d03f4e4778b9c9c32_handout14.pdf
 file_size: 80641
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

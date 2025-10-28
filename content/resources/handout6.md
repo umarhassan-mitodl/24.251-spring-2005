@@ -5,8 +5,6 @@ description: This resource gives information on the modal argument, the Epistemi
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/53e1e043775bcd88b0fb5474466ca36e_handout6.pdf
 file_size: 81852
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource gives information on radical reductionism.
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/53ae0c708d3abbcd7737df36ff461c26_handout4.pdf
 file_size: 58852
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

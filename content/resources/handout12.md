@@ -5,8 +5,6 @@ description: This resource gives information on the nature of a performative utt
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/e75331b822aab52392fb6d44b3d3573b_handout12.pdf
 file_size: 78458
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

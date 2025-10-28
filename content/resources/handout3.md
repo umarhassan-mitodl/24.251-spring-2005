@@ -5,8 +5,6 @@ description: This resource gives information on knowledge by acquaintance and by
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/9f369d35fe2d7dfee86a292aefc18f06_handout3.pdf
 file_size: 89679
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

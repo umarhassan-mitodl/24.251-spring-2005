@@ -4,8 +4,6 @@ description: This resource gives information on Non-catastrophic presupposition 
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/d1af25a53ea76b554cf2b9e0e397e81f_handout10.pdf
 file_size: 94356
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

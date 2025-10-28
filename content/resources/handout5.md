@@ -5,8 +5,6 @@ description: This resource gives information on the frege-russell view of ordina
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/b560e8d7de3bbff8c52ed89185882e00_handout5.pdf
 file_size: 87487
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

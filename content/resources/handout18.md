@@ -5,8 +5,6 @@ description: This resource gives information on disquotation principle, and tran
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/7710cc5b4a9f355545045379cdce6ad0_handout18.pdf
 file_size: 84446
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

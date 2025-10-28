@@ -5,8 +5,6 @@ description: This resource gives information on five Artificial Languages, and t
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/8c2b4dbebe75d53343626a924c096e9d_handout9.pdf
 file_size: 73619
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

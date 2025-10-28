@@ -5,8 +5,6 @@ description: This resource gives information on subordination, silencing, and pr
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/d7a78c2ce50d976fbd769856ef8bddcf_handout15.pdf
 file_size: 76530
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

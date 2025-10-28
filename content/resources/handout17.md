@@ -5,8 +5,6 @@ description: This resource gives information on davidson?s paratactic analysis, 
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/89b287938f99ac434eea300a50d23df2_handout17.pdf
 file_size: 81290
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

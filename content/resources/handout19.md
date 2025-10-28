@@ -4,8 +4,6 @@ description: This resource gives information on semantic Innocence, and direct R
 file: /courses/24-251-introduction-to-philosophy-of-language-spring-2005/ea21cfff6f4d5db70d83b2f08c219ee9_handout19.pdf
 file_size: 86585
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -69,7 +67,7 @@ _Background Reading_
   
 Friedman, Michael. _Reconsidering Logical Positivism_ . New York, NY: Cambridge University Press, 1999. ISBN: 0521624495.  
   
-Murzi, Mauro. "Logical Positivism." Forthcoming in _The New Encyclopedia of Unbelief_. Edited by Tom Flynn. Amherst, NY: Prometheus Books, 2007. ISBN: 1591023912.  (See [Mauro Maurzi's Web site](http://murzim.net/LP/LP00.html) on logical positivism.)  
+Murzi, Mauro. "Logical Positivism." Forthcoming in _The New Encyclopedia of Unbelief_. Edited by Tom Flynn. Amherst, NY: Prometheus Books, 2007. ISBN: 1591023912.  (See {{% resource_link "6a867219-5ae7-4731-afba-184ca349ca21" "Mauro Maurzi's Web site" %}} on logical positivism.)  
   
 Hempel, Carl G. "Empiricist Criteria of Cognitive Significance." In _The Philosophy of Language_ .
 {{< tdclose >}}
